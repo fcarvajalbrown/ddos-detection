@@ -11,7 +11,7 @@ class TestDDoSSimulator(unittest.TestCase):
         """Ensure load_targets returns the correct number of targets from config."""
         simulator = DDoSSimulator()
         targets = simulator.load_targets()
-        self.assertEqual(len(targets), 1)
+        self.assertEqual(len(targets), 9, "Expected 9 targets from config")
 
 
 if __name__ == '__main__':

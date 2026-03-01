@@ -11,4 +11,4 @@ This tool is designed to simulate DDoS (Distributed Denial of Service) attacks o
 ## Usage
 Run the tool using the command:
 ```bash
-python src/main.py
+python -m src.main
