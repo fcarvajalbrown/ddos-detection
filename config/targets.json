@@ -2,39 +2,15 @@
     "targets": [
         {
             "id": "target1",
-            "url": "http://biobiochile.com"
+            "url": "http://www.biobiochile.com"
         },
         {
             "id": "target2",
-            "url": "https://www.insicosa.cl/"
+            "url": "https://saludresponde.minsal.cl/"
         },
         {
             "id": "target3",
-            "url": "https://www.mercadolibre.cl/"
-        },
-        {
-            "id": "target4",
-            "url": "https://www.bancoestado.cl/"
-        },
-        {
-            "id": "target5",
-            "url": "https://home.sii.cl/"
-        },
-        {
-            "id": "target6",
-            "url": "https://www.correos.cl/"
-        },
-        {
-            "id": "target7",
-            "url": "https://www.chileatiende.gob.cl/"
-        },
-        {
-            "id": "target8",
-            "url": "https://www.meteochile.gob.cl/"
-        },
-        {
-            "id": "target9",
-            "url": "https://gecamin.com/espanol/"
+            "url": "https://gecamin.com/"
         }
     ]
 }
