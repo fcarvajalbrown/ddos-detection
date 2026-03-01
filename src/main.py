@@ -1,4 +1,4 @@
-from ddos_simulator import DDoSSimulator
+from src.utils.ddos_simulator import DDoSSimulator
 
 def main():
     simulator = DDoSSimulator()
