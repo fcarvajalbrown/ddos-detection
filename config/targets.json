@@ -1,0 +1,12 @@
+{
+    "targets": [
+        {
+            "id": "target1",
+            "url": "http://example.com"
+        },
+        {
+            "id": "target2",
+            "url": "http://another-example.com"
+        }
+    ]
+}
