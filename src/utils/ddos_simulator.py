@@ -1,6 +1,14 @@
 import requests
 import threading
 from time import sleep
+import os
+
+# In ddos_simulator.py
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+config_path = os.path.join(BASE_DIR, '..', '..', 'config', 'targets.json')
+
+with open(config_path, 'r') as f:
+    return json.load(f)
 
 class DDoSSimulator:
     def __init__(self):
